@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@coreui/coreui-free-react-admin-template": "file:.."
+  }
+}
